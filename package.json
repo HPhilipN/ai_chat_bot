@@ -1,0 +1,22 @@
+{
+  "name": "ai_chat_bot",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/HPhilipN/ai_chat_bot.git"
+  },
+  "author": "Phillip",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/HPhilipN/ai_chat_bot/issues"
+  },
+  "homepage": "https://github.com/HPhilipN/ai_chat_bot#readme",
+  "dependencies": {
+    "discord.js": "^14.10.0"
+  }
+}
