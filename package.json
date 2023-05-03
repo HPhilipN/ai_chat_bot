@@ -18,5 +18,8 @@
   "homepage": "https://github.com/HPhilipN/ai_chat_bot#readme",
   "dependencies": {
     "discord.js": "^14.10.0"
+  },
+  "devDependencies": {
+    "eslint": "^8.39.0"
   }
 }
